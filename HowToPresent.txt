@@ -1,0 +1,9 @@
+How To Prepare for the presentation
+
+Prepare your app running locally and use a very small model so that it runs the code review as fast as possible (for Ollama we recommend qwen2.5:0.5b)
+
+Prepare a piece of demo code that has 1-2 issues that you will execute your tool on.
+
+You will be asked to showcase how you are using a local LLM.
+
+Next you will be able to show how you provide a custom coding guideline that will impact the findings and also showcase the comment/reply functions and RUN the code review again and showcase the functionality.
